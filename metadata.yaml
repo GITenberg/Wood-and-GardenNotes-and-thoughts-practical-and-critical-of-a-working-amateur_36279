@@ -1,0 +1,30 @@
+_repo: Wood-and-GardenNotes-and-thoughts-practical-and-critical-of-a-working-amateur_36279
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jekyll, Gertrude
+    birthdate: 1843
+    deathdate: 1932
+    gutenberg_agent_id: '38184'
+    url: http://www.gutenberg.org/2009/agents/38184
+description: ''
+gutenberg_issued: '2011-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36279'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Landscape gardening'
+- !lcsh 'Landscape gardening -- England'
+- !lcc 'SB'
+- !lcsh 'Flower gardening'
+- !lcsh 'Flower gardening -- England'
+title: 'Wood and Garden: Notes and thoughts, practical and critical, of a working
+  amateur'
+url: http://www.gutenberg.org/ebooks/36279
